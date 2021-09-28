@@ -1,0 +1,1 @@
+var testfeild = document.getElementById("name").ariaValueMax;
