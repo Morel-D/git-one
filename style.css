@@ -6,3 +6,7 @@ p {
     color: aqua;
 }
 
+input{
+    border-style: solid;
+    border-color: gray;
+}
